@@ -1,0 +1,5 @@
+Run the following commands:
+
+mongod --logpath "C:\Desktop\WS MongoDB\log\mongod.log"
+mongod --dbpath "C:\Desktop\WS MongoDB\data\db"
+
